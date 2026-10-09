@@ -129,4 +129,4 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*deft-pelican-262 · 更新于 2026-10-08 · 基于 MIT 许可证共享*
+*deft-pelican-262 · 更新于 2026-10-09 · 基于 MIT 许可证共享*
